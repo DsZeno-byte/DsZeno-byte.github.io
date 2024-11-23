@@ -6,10 +6,10 @@ Hello! I'm Tanuj Sanwal, a passionate student, currently pursuing my Masters in 
 
 # Project
 
-### [1.](https://github.com/DsZeno-byte/Python_Project_1)
+### [1.Random Password Generator](https://github.com/DsZeno-byte/Python_Project_1)
 
-### [2.]
+### [2.Personal Diary Application](https://github.com/DsZeno-byte/Python_Project_2)
 
-### [3.]
+### [3.Simple GUI Calculator](https://github.com/DsZeno-byte/Python_Project_3)
 
-### [4.]
+### [4.Basic Data Analysis Tool](https://github.com/DsZeno-byte/Python_Project_4)
